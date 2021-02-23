@@ -1,0 +1,119 @@
+body{
+    margin: 3% 10%;
+    font-family: work sans, sans-serif;
+    background-color: #E5E5E5;
+    position: relative;
+}
+
+.navbar-to-right{
+    text-align: right;
+    text-space: 50%;
+    font-family: work sans, sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.navbar-to-left{
+    text-align: left;
+    font-family: work sans, sans-serif;
+    font-weight: 700;
+    font-size: 69px;
+    color: #ff5678;
+
+}
+
+a{
+    text-underline-mode: none;
+    font-family: work sans, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: black;
+    text-underline-style: none;
+    text-underline: none;
+    text-decoration: none;
+    margin: 30px;
+}
+
+nav{
+    font-family: work sans, sans-serif;
+    padding-bottom: 30px;
+}
+
+.flexMode{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.headerButton{
+    border-color: none;
+    background-color: #ff5678;
+    height: 64px;
+}
+
+h1{
+    font-size: 70px;
+    font-family: work sans, sans-serif;
+    font-weight: 700;
+
+}
+
+p{
+    font-weight: 400;
+    font-size: 56px;
+    text-space: 0;
+
+}
+
+.rightDiv{
+    height: 20%;
+    width: 30%;
+}
+
+
+.leftDiv{
+    height:20%;
+    width: 70%;
+}
+
+
+
+container{
+    padding-top: 7%;
+    display: flex;
+    flex-direction: row;
+}
+
+footer{
+    background-color: #ff5678;
+    color: white;
+    text-align: center;
+    margin: 0;
+    height: 5%;
+    font-size: 8px;
+}
+
+
+.socialLogos{
+    width:60px;
+    height: 60px;
+    padding-left: 30px;
+}
+
+
+.bodyButton {
+    background-color: #ff5678;
+    height: 68px;
+    width: 200px;
+    border-radius: 3%;
+    border: none;
+}
+
+strong{
+    color: #ff5678;
+}
+
+#aboutMeParagraph{
+    font-size: 37px;
+}
